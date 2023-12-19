@@ -9,8 +9,8 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 
 ### Links
 
-- Solution URL: (https://github.com/thbdmtt/SunnySide)
-- Live Site URL: (https://thbdmtt.github.io/SunnySide/)
+- Solution URL: (https://github.com/thibaud-mtt/SunnySide)
+- Live Site URL: (https://thibaud-mtt.github.io/SunnySide/)
 
 ### Built with
 
@@ -26,7 +26,7 @@ I learn about CSS Grid and responsive design
 
 ## Author
 
-- GitHub - (https://github.com/thbdmtt)
-- Frontend Mentor - [@thbdmtt](https://www.frontendmentor.io/profile/thbdmtt)
+- GitHub - (https://github.com/thibaud-mtt)
+
 
 
